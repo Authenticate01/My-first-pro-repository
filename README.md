@@ -1,2 +1,11 @@
-# My-first-pro-repository
-My first public GitHub repository for verification and learning purposes.
+# My First GitHub Repository
+
+This repository was created to activate and verify my GitHub account.
+
+## Purpose
+- GitHub account verification
+- Learning how repositories work
+- Connecting GitHub to Web3 platforms
+
+## Status
+Active and public.
